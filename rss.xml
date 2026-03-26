@@ -3,11 +3,11 @@
    <channel>
        <title>AIO - Homee</title>
        <item>
-           <title>Version 0.0.1</title>
+           <title>Version 1.0.1</title>
            <sparkle:tags>
                <sparkle:criticalUpdate />
            </sparkle:tags>
-           <sparkle:version>0.0.1</sparkle:version>
+           <sparkle:version>1.0.1</sparkle:version>
        </item>
    </channel>
 </rss>
