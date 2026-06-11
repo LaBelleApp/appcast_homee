@@ -1,0 +1,16 @@
+id: homee-appcast
+name: Homee Appcast
+type: distribution
+status: maintained
+owner: LaBelleApp
+ 
+summary: Appcast RSS feed (rss.xml) that forces Homee to update to the latest version.
+whenToUse: Reference for hosting a forced-update appcast feed for an app.
+ 
+partOf: null
+ 
+tags: [appcast, updates, rss, distribution]
+links:
+  repo: https://github.com/LaBelleApp/appname-appcast
+  doc: null
+  demo: null
