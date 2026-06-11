@@ -7,7 +7,7 @@ owner: LaBelleApp
 summary: Appcast RSS feed (rss.xml) that forces Homee to update to the latest version.
 whenToUse: Reference for hosting a forced-update appcast feed for an app.
  
-partOf: null
+partOf: aio
  
 tags: [appcast, updates, rss, distribution]
 links:
